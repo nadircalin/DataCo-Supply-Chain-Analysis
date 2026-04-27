@@ -72,7 +72,7 @@ Every key metric in this project required a judgement call,
 not just a calculation.
 
 ## Files
-[DataCo Supply Chain Analysis]([https://1drv.ms/x/c/d3eae2c0ded9683b/IQBrVpyyEsrITa8ao4xNyNuwARHytA4urJuJvQmvG9r97n8?e=DNHtuh]
+[DataCo Supply Chain Analysis][https://1drv.ms/x/c/d3eae2c0ded9683b/IQBrVpyyEsrITa8ao4xNyNuwARHytA4urJuJvQmvG9r97n8?e=DNHtuh]
 -  working sheet and dashboard
 - `dashboard.png` screenshot of the final dashboard
 
