@@ -72,9 +72,8 @@ Every key metric in this project required a judgement call,
 not just a calculation.
 
 ## Files
-
-- [DataCo_Supply_Chain_Analysis Excel File] (https://1drv.ms/x/c/d3eae2c0ded9683b/IQBrVpyyEsrITa8ao4xNyNuwARHytA4urJuJvQmvG9r97n8?e=DNHtuh) full workbook including raw data, 
-  working sheet and dashboard
+[DataCo Supply Chain Analysis]([url](https://1drv.ms/x/c/d3eae2c0ded9683b/IQBrVpyyEsrITa8ao4xNyNuwARHytA4urJuJvQmvG9r97n8?e=DNHtuh)
+-  working sheet and dashboard
 - `dashboard.png` screenshot of the final dashboard
 
 ## Dashboard Preview
