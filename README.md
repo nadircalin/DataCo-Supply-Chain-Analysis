@@ -77,5 +77,7 @@ not just a calculation.
 - `dashboard.png` screenshot of the final dashboard
 
 ## Dashboard Preview
+<img width="1529" height="725" alt="image" src="https://github.com/user-attachments/assets/16b8d004-eed2-42f7-b2f6-40f49e36b979" />
+
 
 ![Dashboard](dashboard.png)
